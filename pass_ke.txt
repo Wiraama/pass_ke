@@ -71,3 +71,5 @@ endakwenu
 nunuadata
 nointernet
 sinadata
+wenimkora
+drowssap
