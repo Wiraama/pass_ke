@@ -73,3 +73,5 @@ nointernet
 sinadata
 wenimkora
 drowssap
+p@ssw0rd
+
